@@ -1,0 +1,13 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": {
+    "include": [
+      "lib/**/*.jar",
+      "/Users/susithsugathapala/Downloads/json-simple-1.1.1.jar",
+      "/Users/susithsugathapala/Downloads/jackson-all-1.9.0.jar",
+      "c:\\Users\\INOVA\\Downloads\\jackson-core-2.2.3.jar"
+    ],
+    "exclude": ["/Users/susithsugathapala/Downloads/object-mapper-1.1.68.jar"]
+  }
+}
